@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "MCP Brasil"
+abstract: "Model Context Protocol server for Brazilian government transparency data"
+authors:
+  - family-names: "Silva"
+    given-names: "Anderson Henrique"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+repository-code: "https://github.com/anderson-ufrj/mcp-brasil"
+url: "https://github.com/anderson-ufrj/mcp-brasil"
+license: MIT
+version: "1.0.0"
+date-released: "2025-01-14"
+keywords:
+  - mcp
+  - model-context-protocol
+  - transparency
+  - brazil
+  - government-data
+  - golang
