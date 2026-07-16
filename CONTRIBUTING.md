@@ -6,7 +6,7 @@ Thank you for your interest in contributing to MCP Brasil!
 
 ### Reporting Bugs
 
-- Check if the bug has already been reported in [Issues](https://github.com/anderson-ufrj/mcp-brasil/issues)
+- Check if the bug has already been reported in [Issues](https://github.com/anderson-ntlabs/mcp-brasil/issues)
 - If not, create a new issue with a clear title and description
 - Include steps to reproduce, expected behavior, and actual behavior
 

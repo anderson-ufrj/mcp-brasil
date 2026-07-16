@@ -3,7 +3,7 @@
 [![Go Version](https://img.shields.io/badge/Go-1.22+-00ADD8?style=flat&logo=go)](https://go.dev/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![MCP](https://img.shields.io/badge/MCP-Compatible-green.svg)](https://modelcontextprotocol.io/)
-[![Version](https://img.shields.io/badge/Version-2.0.0-brightgreen.svg)](https://github.com/anderson-ufrj/mcp-brasil/releases)
+[![Version](https://img.shields.io/badge/Version-2.0.0-brightgreen.svg)](https://github.com/anderson-ntlabs/mcp-brasil/releases)
 
 MCP (Model Context Protocol) server for Brazilian government and public data. Provides unified access to 17 tools across 5 official Brazilian APIs.
 
@@ -67,7 +67,7 @@ MCP (Model Context Protocol) server for Brazilian government and public data. Pr
 
 ```bash
 # Clone the repository
-git clone https://github.com/anderson-ufrj/mcp-brasil.git
+git clone https://github.com/anderson-ntlabs/mcp-brasil.git
 cd mcp-brasil
 
 # Build
@@ -211,12 +211,12 @@ If you use this software in your research, please cite it:
   title = {MCP Brasil},
   year = {2025},
   version = {2.0.0},
-  url = {https://github.com/anderson-ufrj/mcp-brasil}
+  url = {https://github.com/anderson-ntlabs/mcp-brasil}
 }
 ```
 
 ## Related Projects
 
-- [langchain-maritaca](https://github.com/anderson-ufrj/langchain-maritaca) - LangChain integration for Maritaca AI
-- [Cidadao.AI](https://github.com/anderson-ufrj/cidadao.ai-backend) - Multi-agent transparency platform
+- [langchain-maritaca](https://github.com/anderson-ntlabs/langchain-maritaca) - LangChain integration for Maritaca AI
+- [Cidadao.AI](https://github.com/anderson-ntlabs/cidadao.ai-backend) - Multi-agent transparency platform
 - [Model Context Protocol](https://modelcontextprotocol.io/) - Official MCP specification
