@@ -7,11 +7,11 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/anderson-ufrj/mcp-brasil/pkg/bcb"
-	"github.com/anderson-ufrj/mcp-brasil/pkg/cnpj"
-	"github.com/anderson-ufrj/mcp-brasil/pkg/ibge"
-	"github.com/anderson-ufrj/mcp-brasil/pkg/pncp"
-	"github.com/anderson-ufrj/mcp-brasil/pkg/transparencia"
+	"github.com/anderson-ntlabs/mcp-brasil/pkg/bcb"
+	"github.com/anderson-ntlabs/mcp-brasil/pkg/cnpj"
+	"github.com/anderson-ntlabs/mcp-brasil/pkg/ibge"
+	"github.com/anderson-ntlabs/mcp-brasil/pkg/pncp"
+	"github.com/anderson-ntlabs/mcp-brasil/pkg/transparencia"
 	"github.com/mark3labs/mcp-go/mcp"
 	"github.com/mark3labs/mcp-go/server"
 )

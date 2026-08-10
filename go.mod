@@ -1,4 +1,4 @@
-module github.com/anderson-ufrj/mcp-brasil
+module github.com/anderson-ntlabs/mcp-brasil
 
 go 1.23.0
 

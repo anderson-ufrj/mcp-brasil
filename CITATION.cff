@@ -7,8 +7,8 @@ authors:
   - family-names: "Silva"
     given-names: "Anderson Henrique"
     orcid: "https://orcid.org/0009-0001-7144-4974"
-repository-code: "https://github.com/anderson-ufrj/mcp-brasil"
-url: "https://github.com/anderson-ufrj/mcp-brasil"
+repository-code: "https://github.com/anderson-ntlabs/mcp-brasil"
+url: "https://github.com/anderson-ntlabs/mcp-brasil"
 license: MIT
 version: "2.0.0"
 date-released: "2026-01-14"
