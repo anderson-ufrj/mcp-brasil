@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 type: software
 title: "MCP Brasil"
-abstract: "Model Context Protocol server for Brazilian government and public data with 17 tools across 5 APIs"
+abstract: "Model Context Protocol server for Brazilian government and public data with 16 tools across 5 APIs"
 authors:
   - family-names: "Silva"
     given-names: "Anderson Henrique"

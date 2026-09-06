@@ -5,7 +5,7 @@
 [![MCP](https://img.shields.io/badge/MCP-Compatible-green.svg)](https://modelcontextprotocol.io/)
 [![Version](https://img.shields.io/badge/Version-2.0.0-brightgreen.svg)](https://github.com/anderson-ntlabs/mcp-brasil/releases)
 
-MCP (Model Context Protocol) server for Brazilian government and public data. Provides unified access to 17 tools across 5 official Brazilian APIs.
+MCP (Model Context Protocol) server for Brazilian government and public data. Provides unified access to 16 tools across 5 official Brazilian APIs.
 
 ## Data Sources
 
@@ -17,7 +17,7 @@ MCP (Model Context Protocol) server for Brazilian government and public data. Pr
 | **Banco Central** | Economic indicators and exchange rates | 4 |
 | **PNCP** | Public procurement contracts | 3 |
 
-## Tools (17 total)
+## Tools (16 total)
 
 ### Portal da Transparencia
 
@@ -42,7 +42,7 @@ MCP (Model Context Protocol) server for Brazilian government and public data. Pr
 
 | Tool | Description |
 |------|-------------|
-| `cnpj_lookup` | Get company data by CNPJ (address, activities, partners) |
+| `lookup_cnpj` | Get company data by CNPJ (address, activities, partners) |
 
 ### Banco Central (BCB)
 
@@ -58,7 +58,6 @@ MCP (Model Context Protocol) server for Brazilian government and public data. Pr
 | Tool | Description |
 |------|-------------|
 | `pncp_contracts` | Search public procurement publications |
-| `pncp_price_registrations` | Search price registration records |
 | `pncp_modalities` | List procurement modality codes |
 
 ## Installation
